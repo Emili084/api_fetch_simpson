@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node": "^20.2.0"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
